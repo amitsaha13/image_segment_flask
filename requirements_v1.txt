@@ -1,0 +1,13 @@
+python -m venv venv
+venv\Scripts\activate
+pip install flask
+pip install flask_cors
+pip install pdf2image
+pip install Pillow
+pip install python-docx
+pip install docx2pdf
+pip install ultralytics
+
+
+
+
